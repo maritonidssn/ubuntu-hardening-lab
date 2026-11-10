@@ -96,3 +96,22 @@ Lessons Learned:
 - Learned how sockets work.
 - Learned basic network enumeration.
 - Compared custom scripts against proffessional security tools.
+
+Screenshots:
+Firewall Configuration:
+<img width="546" height="119" alt="firewall-active" src="https://github.com/user-attachments/assets/378ccea3-55e2-4a4a-b87d-d5138f60843b" />
+
+Open Ports Analysis
+![Open Ports Analysis](Screenshots/listening-ports.png)
+
+Nmap Scan 
+![Nmap Scan](Screenshots/nmap-scan-results.png)
+
+User Account Audit
+![User Account Audit](Screenshots/user-audit.png)
+
+Log Analysis
+![Log Analysis](Screenshots/log-analysis.png)
+
+Python Port Scanner
+![Python Port Scanner](Screenshots/python-scanner-detecting-port 631.png)
